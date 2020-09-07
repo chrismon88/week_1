@@ -1,0 +1,39 @@
+p{
+    color: blue;
+}
+
+h1 {
+    color: aqua;
+}
+
+
+body {
+    background-color: cornflowerblue;
+
+}
+li{
+    list-style-type: square;
+margin: 3px;
+padding: 3px;
+}
+a {
+    background-color: darkgreen;
+    color: crimson;
+    text-decoration: none;
+}
+ul{
+    /* Make background of unordered list gray. */
+    background-color: grey;
+}
+
+#most\ favorite{
+    background-color: cyan;
+
+}
+.second-favorite{
+    background-color: darkgreen;
+}
+#page-title{
+    text-shadow: 10px 10px darkcyan;
+
+}
