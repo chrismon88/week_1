@@ -33,7 +33,13 @@ ul{
 .second-favorite{
     background-color: darkgreen;
 }
-#page-title{
+#page-title {
     text-shadow: 10px 10px darkcyan;
-
 }
+
+table, tr, th, td {
+    border: 1px solid black;
+    border-collapse: collapse;
+}
+
+
