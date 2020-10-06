@@ -19,7 +19,7 @@
     <select />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="6e6ba021-c9c8-4ef1-b54f-35edc254ca6d" name="Default Changelist" comment="Starting site had trouble on table links. Wish I would have spent more time on it but we are selling our home and had daily showing this past weeks so my time at home was limited.">
+    <list default="true" id="6e6ba021-c9c8-4ef1-b54f-35edc254ca6d" name="Default Changelist" comment="Starting site had trouble on table links. Wish I would have spent more time on it but we are selling our home and had daily showing this past weeks so my time at home was limited.//&#10;&#10;commit updates 9/0/20">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/favorite.html" beforeDir="false" afterPath="$PROJECT_DIR$/favorite.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/styles.css" beforeDir="false" afterPath="$PROJECT_DIR$/styles.css" afterDir="false" />
@@ -50,7 +50,7 @@
     <property name="DefaultHtmlFileTemplate" value="HTML File" />
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../lab3" />
     <property name="list.type.of.created.stylesheet" value="CSS" />
     <property name="vue.rearranger.settings.migration" value="true" />
   </component>
@@ -71,7 +71,8 @@
       <workItem from="1599603305533" duration="23000" />
       <workItem from="1600293619533" duration="168000" />
       <workItem from="1600293951680" duration="2037000" />
-      <workItem from="1601478154500" duration="7622000" />
+      <workItem from="1601478154500" duration="9755000" />
+      <workItem from="1601513114838" duration="3751000" />
     </task>
     <task id="LOCAL-00001" summary="Starting website">
       <created>1598986453995</created>
@@ -94,7 +95,14 @@
       <option name="project" value="LOCAL" />
       <updated>1599593858669</updated>
     </task>
-    <option name="localTasksCounter" value="4" />
+    <task id="LOCAL-00004" summary="Starting site had trouble on table links. Wish I would have spent more time on it but we are selling our home and had daily showing this past weeks so my time at home was limited.//&#10;&#10;commit updates 9/0/20">
+      <created>1601488298449</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1601488298449</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -115,27 +123,29 @@
   <component name="VcsManagerConfiguration">
     <MESSAGE value="Starting website" />
     <MESSAGE value="Starting site had trouble on table links. Wish I would have spent more time on it but we are selling our home and had daily showing this past weeks so my time at home was limited." />
-    <option name="LAST_COMMIT_MESSAGE" value="Starting site had trouble on table links. Wish I would have spent more time on it but we are selling our home and had daily showing this past weeks so my time at home was limited." />
+    <MESSAGE value="Starting site had trouble on table links. Wish I would have spent more time on it but we are selling our home and had daily showing this past weeks so my time at home was limited.//&#10;&#10;commit updates 9/0/20" />
+    <option name="LAST_COMMIT_MESSAGE" value="Starting site had trouble on table links. Wish I would have spent more time on it but we are selling our home and had daily showing this past weeks so my time at home was limited.//&#10;&#10;commit updates 9/0/20" />
   </component>
   <component name="WindowStateProjectService">
-    <state x="545" y="158" key="FileChooserDialogImpl" timestamp="1600294628578">
-      <screen x="0" y="0" width="1536" height="824" />
+    <state x="2601" y="199" key="FileChooserDialogImpl" timestamp="1601516905222">
+      <screen x="1920" y="0" width="1920" height="1040" />
     </state>
     <state x="545" y="158" key="FileChooserDialogImpl/0.0.1536.824/1920.0.1920.1040@0.0.1536.824" timestamp="1600294628578" />
-    <state x="2601" y="199" key="FileChooserDialogImpl/0.0.1536.824/1920.0.1920.1040@1920.0.1920.1040" timestamp="1599444856901" />
+    <state x="2601" y="199" key="FileChooserDialogImpl/0.0.1536.824/1920.0.1920.1040@1920.0.1920.1040" timestamp="1601516905222" />
     <state x="2625" y="222" key="RollbackChangesDialog" timestamp="1599253866643">
       <screen x="1920" y="0" width="1920" height="1040" />
     </state>
     <state x="2625" y="222" key="RollbackChangesDialog/0.0.1536.824/1920.0.1920.1040@1920.0.1920.1040" timestamp="1599253866643" />
-    <state x="357" y="136" key="Vcs.Push.Dialog.v2" timestamp="1599593862228">
-      <screen x="0" y="0" width="1536" height="824" />
-    </state>
-    <state x="357" y="136" key="Vcs.Push.Dialog.v2/0.0.1536.824/1920.0.1920.1040@0.0.1536.824" timestamp="1599593862228" />
-    <state x="2366" y="172" key="Vcs.Push.Dialog.v2/0.0.1536.824/1920.0.1920.1040@1920.0.1920.1040" timestamp="1599448286330" />
-    <state x="2697" y="434" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2" timestamp="1599445977773">
+    <state x="2366" y="172" key="Vcs.Push.Dialog.v2" timestamp="1601516829851">
       <screen x="1920" y="0" width="1920" height="1040" />
     </state>
-    <state x="2697" y="434" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2/0.0.1536.824/1920.0.1920.1040@1920.0.1920.1040" timestamp="1599445977773" />
+    <state x="357" y="136" key="Vcs.Push.Dialog.v2/0.0.1536.824/-1920.0.1920.1040@0.0.1536.824" timestamp="1601488298944" />
+    <state x="357" y="136" key="Vcs.Push.Dialog.v2/0.0.1536.824/1920.0.1920.1040@0.0.1536.824" timestamp="1599593862228" />
+    <state x="2366" y="172" key="Vcs.Push.Dialog.v2/0.0.1536.824/1920.0.1920.1040@1920.0.1920.1040" timestamp="1601516829851" />
+    <state x="2697" y="434" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2" timestamp="1601516711258">
+      <screen x="1920" y="0" width="1920" height="1040" />
+    </state>
+    <state x="2697" y="434" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2/0.0.1536.824/1920.0.1920.1040@1920.0.1920.1040" timestamp="1601516711258" />
     <state x="525" y="72" width="551" height="405" maximized="true" key="dock-window-1" timestamp="1599237408154">
       <screen x="0" y="0" width="1536" height="824" />
     </state>

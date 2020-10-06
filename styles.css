@@ -25,10 +25,24 @@ ul{
     /* Make background of unordered list gray. */
     background-color: grey;
 }
+#favorite-movie-name{
+    color: crimson;
 
+}
+#favorite-music-name{
+    color: darkorange;
+}
+.favorite-image{
+border-radius:25px;
+
+;
+}
 #most\ favorite{
     background-color: cyan;
 
+}
+.section-header{
+    background-color: darkkhaki;
 }
 .second-favorite{
     background-color: darkgreen;
@@ -38,8 +52,14 @@ ul{
 }
 
 table, tr, th, td {
+
     border: 1px solid black;
     border-collapse: collapse;
 }
-
-
+th{
+    background-color: blue;
+}
+td{
+    background-color: aqua;
+    width: 33%;
+}
